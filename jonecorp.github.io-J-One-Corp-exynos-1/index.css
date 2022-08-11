@@ -1,0 +1,385 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  pointer-events:none;
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  height:1080px;
+  min-width:200px;
+  max-width:1926px;
+  margin:auto;
+  background-color:rgba(0, 0, 0, 1);
+}
+.Frame-outer{
+  pointer-events:none;
+  z-index:2;
+}
+.q1{
+  position:relative;
+  z-index:3;
+  pointer-events:none;
+  margin-left:-1px;
+  margin-right:0px;
+  flex-grow:1;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:1080px;
+  background-color:rgba(0, 0, 0, 1);
+  overflow:hidden;
+}
+.q1-outer{
+  pointer-events:none;
+  z-index:3;
+  position:absolute;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.q--iMac---1{
+  position:relative;
+  z-index:4;
+  pointer-events:none;
+  margin-left:0px;
+  width:1927px;
+  min-width:1927px;
+  height:1080px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:1080px;
+  background-color:rgba(0, 0, 0, 1);
+  overflow:hidden;
+}
+.q--iMac---1-outer{
+  pointer-events:none;
+  z-index:4;
+  position:relative;
+  display:flex;
+}
+.Vector-1{
+  position:relative;
+  z-index:17;
+  pointer-events:none;
+  margin-left:825px;
+  width:269px;
+  min-width:269px;
+  height:274px;
+  margin-top:0px;
+  margin-bottom:806px;
+  min-height:274px;
+  content:url(assets/images/Vector_1.png);
+}
+.Vector-1-outer{
+  pointer-events:none;
+  z-index:17;
+  position:relative;
+  display:flex;
+}
+.Vector-6{
+  position:relative;
+  z-index:12;
+  pointer-events:none;
+  margin-left:358px;
+  width:153px;
+  min-width:153px;
+  height:165px;
+  margin-top:-1080px;
+  margin-bottom:915px;
+  min-height:165px;
+  content:url(assets/images/Vector_6.png);
+}
+.Vector-6-outer{
+  pointer-events:none;
+  z-index:12;
+  position:relative;
+  display:flex;
+}
+.Vector-9{
+  position:relative;
+  z-index:9;
+  pointer-events:none;
+  margin-left:1561px;
+  width:285px;
+  min-width:285px;
+  height:234px;
+  margin-top:-1049px;
+  margin-bottom:815px;
+  min-height:234px;
+  content:url(assets/images/Vector_9.png);
+}
+.Vector-9-outer{
+  pointer-events:none;
+  z-index:9;
+  position:relative;
+  display:flex;
+}
+.Vector-4{
+  position:relative;
+  z-index:14;
+  pointer-events:none;
+  margin-left:1310px;
+  width:131px;
+  min-width:131px;
+  height:143px;
+  margin-top:-987px;
+  margin-bottom:844px;
+  min-height:143px;
+  content:url(assets/images/Vector_4.png);
+}
+.Vector-4-outer{
+  pointer-events:none;
+  z-index:14;
+  position:relative;
+  display:flex;
+}
+.Vector-8{
+  position:relative;
+  z-index:10;
+  pointer-events:none;
+  margin-left:66px;
+  width:124px;
+  min-width:124px;
+  height:131px;
+  margin-top:-932px;
+  margin-bottom:801px;
+  min-height:131px;
+  content:url(assets/images/Vector_8.png);
+}
+.Vector-8-outer{
+  pointer-events:none;
+  z-index:10;
+  position:relative;
+  display:flex;
+}
+.q4a3499c6b5cca368ec4{
+  position:relative;
+  z-index:19;
+  pointer-events:none;
+  margin-left:841px;
+  width:587px;
+  min-width:587px;
+  height:440px;
+  margin-top:-773px;
+  margin-bottom:333px;
+  min-height:440px;
+  background-image:url(assets/images/_4a3499c6b5cca368ec4e3717f9077114_1.gif);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  filter:drop-shadow(0px 0px 0px rgba(255, 255, 255, 0.01));
+}
+.q4a3499c6b5cca368ec4-outer{
+  pointer-events:none;
+  z-index:19;
+  position:relative;
+  display:flex;
+}
+.q1591069024620-1{
+  position:relative;
+  z-index:6;
+  pointer-events:none;
+  margin-left:158px;
+  width:93px;
+  min-width:93px;
+  height:93px;
+  margin-top:-725px;
+  margin-bottom:632px;
+  min-height:93px;
+  content:url(assets/images/_1591069024620_1.png);
+}
+.q1591069024620-1-outer{
+  pointer-events:none;
+  z-index:6;
+  position:relative;
+  display:flex;
+}
+.J-One-Corporation{
+  position:relative;
+  z-index:7;
+  pointer-events:none;
+  margin-left:257px;
+  width:202px;
+  min-width:202px;
+  margin-top:-689px;
+  margin-bottom:667px;
+  min-height:22px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Spartan;
+  font-weight:600;
+  font-size:20px;
+  line-height:23px;
+}
+.J-One-Corporation-outer{
+  pointer-events:none;
+  z-index:7;
+  position:relative;
+  display:flex;
+}
+.Introducing-the-new-{
+  position:relative;
+  z-index:5;
+  pointer-events:none;
+  margin-left:176px;
+  width:441px;
+  min-width:441px;
+  margin-top:-622px;
+  margin-bottom:406px;
+  min-height:216px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Spartan;
+  font-weight:900;
+  font-size:64px;
+  line-height:76px;
+}
+.Introducing-the-new--outer{
+  pointer-events:none;
+  z-index:5;
+  position:relative;
+  display:flex;
+}
+.Vector-5{
+  position:relative;
+  z-index:13;
+  pointer-events:none;
+  margin-left:1652px;
+  width:194px;
+  min-width:194px;
+  height:207px;
+  margin-top:-553px;
+  margin-bottom:346px;
+  min-height:207px;
+  content:url(assets/images/Vector_5.png);
+}
+.Vector-5-outer{
+  pointer-events:none;
+  z-index:13;
+  position:relative;
+  display:flex;
+}
+.Compatible-with-{
+  position:relative;
+  z-index:8;
+  pointer-events:none;
+  opacity:0.699999988079071;
+  margin-left:182px;
+  width:102px;
+  min-width:102px;
+  margin-top:-394px;
+  margin-bottom:378px;
+  min-height:16px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Quicksand;
+  font-weight:500;
+  font-size:13px;
+  line-height:16px;
+}
+.Compatible-with--outer{
+  pointer-events:none;
+  z-index:8;
+  position:relative;
+  display:flex;
+}
+.Vector-2{
+  position:relative;
+  z-index:16;
+  pointer-events:none;
+  margin-left:330px;
+  width:257px;
+  min-width:257px;
+  height:267px;
+  margin-top:-333px;
+  margin-bottom:66px;
+  min-height:267px;
+  content:url(assets/images/Vector_2.png);
+}
+.Vector-2-outer{
+  pointer-events:none;
+  z-index:16;
+  position:relative;
+  display:flex;
+}
+.Vector-3{
+  position:relative;
+  z-index:15;
+  pointer-events:none;
+  margin-left:1310px;
+  width:352px;
+  min-width:352px;
+  height:309px;
+  margin-top:-309px;
+  margin-bottom:0px;
+  min-height:309px;
+  content:url(assets/images/Vector_3.png);
+}
+.Vector-3-outer{
+  pointer-events:none;
+  z-index:15;
+  position:relative;
+  display:flex;
+}
+.Vector{
+  position:relative;
+  z-index:18;
+  pointer-events:none;
+  margin-left:735px;
+  width:278px;
+  min-width:278px;
+  height:194px;
+  margin-top:-194px;
+  margin-bottom:0px;
+  min-height:194px;
+  content:url(assets/images/Vector.png);
+}
+.Vector-outer{
+  pointer-events:none;
+  z-index:18;
+  position:relative;
+  display:flex;
+}
+.Vector-7{
+  position:relative;
+  z-index:11;
+  pointer-events:none;
+  margin-left:66px;
+  width:60px;
+  min-width:60px;
+  height:66px;
+  margin-top:-128px;
+  margin-bottom:62px;
+  min-height:66px;
+  content:url(assets/images/Vector_7.png);
+}
+.Vector-7-outer{
+  pointer-events:none;
+  z-index:11;
+  position:relative;
+  display:flex;
+}
